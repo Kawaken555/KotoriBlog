@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2021-08-03T14:17:18Z
-draft: true
+draft: false
 
 # author's github account name
 author:
