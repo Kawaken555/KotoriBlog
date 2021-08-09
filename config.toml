@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/liva/"
+baseURL = "https://kawaken555.github.io/KotoriBlog/"
 languageCode = "ja-JP"
 title = "ことりBlog"
 theme = "liva-hugo"
@@ -82,7 +82,7 @@ mobile = ""
 email = ""
 location = "Tokyo, Japan"
 # copyright
-copyright = "| copyright &copy; 2021 [Kawaken555](https://themefisher.com/hugo-themes/) All Rights Reserved |"
+copyright = "| copyright &copy; 2021 [Kawaken555](https://kawaken555.github.io/KotoriBlog/) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
