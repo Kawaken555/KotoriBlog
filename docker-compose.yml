@@ -6,6 +6,10 @@ services:
     build:
       context: .
       dockerfile: dockerfile
+      args:
+        - HUGO_VERSION=${HUGO_VERSION}
+        - HUGO_NAME=${HUGO_NAME}
+        - HUGO_URL=${HUGO_URL}
     ports:
       - 1313:1313
     tty: true

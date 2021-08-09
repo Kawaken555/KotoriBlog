@@ -1,8 +1,9 @@
 FROM debian:10-slim
 
-ENV HUGO_VERSION='0.79.0'
-ENV HUGO_NAME="hugo_extended_${HUGO_VERSION}_Linux-64bit"
-ENV HUGO_URL="https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/${HUGO_NAME}.tar.gz"
+ARG HUGO_VERSION
+ARG HUGO_NAME
+ARG HUGO_URL
+
 WORKDIR /hugo
 RUN apt-get update \
     && apt-get install -y --no-install-recommends \
