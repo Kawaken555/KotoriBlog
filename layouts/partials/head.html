@@ -14,7 +14,8 @@
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ if $scss }}
+  {{ $styles := resources.Get "scss/style.scss" }}
+  {{ if $styles }}
     {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
   {{ end }}
