@@ -1,11 +1,10 @@
 {{ define "main" }}
 
-<!-- featured post -->
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-10 featured-post-slider">
-        <!-- slider item -->
+
         {{ range ( where .Site.RegularPages "Type" "featured" )}}
         <article class="card featured-post">
           <div class="row no-gutters align-items-center">
@@ -35,9 +34,7 @@
     </div>
   </div>
 </section>
-<!-- /featured post -->
 
-<!-- recent post -->
 <section>
   <div class="container">
     <div class="row">
@@ -64,9 +61,7 @@
     </div>
   </div>
 </section>
-<!-- /recent post -->
 
-<!-- blog post -->
 <section class="section pb-0">
   <div class="container">
     <div class="row">
@@ -100,17 +95,14 @@
           {{ end }}
         </div>
       </div>
-      <!-- sidebar -->
-      {{ partial "sidebar.html" . }}
-      <!-- /sidebar -->
 
-      <!-- pagination -->
+      {{ partial "sidebar.html" . }}
+
       <div class="col-12 mt-5">
         {{ template "_internal/pagination.html" . }}
       </div>
     </div>
   </div>
 </section>
-<!-- /blog post -->
 
 {{ end }}
