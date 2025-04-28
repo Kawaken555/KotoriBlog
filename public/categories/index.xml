@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on ことりBlog</title>
+    <link>http://localhost:37121/KotoriBlog/categories/</link>
+    <description>Recent content in Categories on ことりBlog</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 03 Aug 2021 14:17:18 +0000</lastBuildDate>
+    <atom:link href="http://localhost:37121/KotoriBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Document</title>
+      <link>http://localhost:37121/KotoriBlog/categories/document/</link>
+      <pubDate>Tue, 03 Aug 2021 14:17:18 +0000</pubDate>
+      <guid>http://localhost:37121/KotoriBlog/categories/document/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

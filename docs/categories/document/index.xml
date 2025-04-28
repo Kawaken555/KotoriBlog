@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Document on ことりBlog</title>
+    <link>https://kawaken555.github.io/KotoriBlog/categories/document/</link>
+    <description>Recent content in Document on ことりBlog</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 03 Aug 2021 14:17:18 +0000</lastBuildDate>
+    <atom:link href="https://kawaken555.github.io/KotoriBlog/categories/document/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://kawaken555.github.io/KotoriBlog/blog/privacy_policy/</link>
+      <pubDate>Tue, 03 Aug 2021 14:17:18 +0000</pubDate>
+      <guid>https://kawaken555.github.io/KotoriBlog/blog/privacy_policy/</guid>
+      <description>Privacy Policy</description>
+    </item>
+  </channel>
+</rss>

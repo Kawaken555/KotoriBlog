@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ことりBlog</title>
+    <link>http://localhost:1313/KotoriBlog/</link>
+    <description>Recent content on ことりBlog</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Mon, 28 Apr 2025 06:48:28 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/KotoriBlog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>利用規約</title>
+      <link>http://localhost:1313/KotoriBlog/blog/service_term/</link>
+      <pubDate>Mon, 28 Apr 2025 06:48:28 +0000</pubDate>
+      <guid>http://localhost:1313/KotoriBlog/blog/service_term/</guid>
+      <description>&lt;h1 id=&#34;利用規約&#34;&gt;利用規約&lt;/h1&gt;
+&lt;p&gt;この利用規約（以下，「本規約」といいます。）は，Kawaken555（以下，「当方」といいます。）がこのウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。&lt;/p&gt;
+&lt;h2 id=&#34;第1条適用&#34;&gt;第1条（適用）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本規約は，ユーザーと当方との間の本サービスの利用に関わる一切の関係に適用されるものとします。&lt;/li&gt;
+&lt;li&gt;当方は本サービスに関し，本規約のほか，ご利用にあたってのルール等，各種の定め（以下，「個別規定」といいます。）をすることがあります。これら個別規定はその名称のいかんに関わらず，本規約の一部を構成するものとします。&lt;/li&gt;
+&lt;li&gt;本規約の規定が前条の個別規定の規定と矛盾する場合には，個別規定において特段の定めなき限り，個別規定の規定が優先されるものとします。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;第2条利用登録&#34;&gt;第2条（利用登録）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本サービスにおいては，登録希望者が本規約に同意の上，当方の定める方法によって利用登録を申請し，当方がこれを承認することによって，利用登録が完了するものとします。&lt;/li&gt;
+&lt;li&gt;当方は，利用登録の申請者に以下の事由があると判断した場合，利用登録の申請を承認しないことがあり，その理由については一切の開示義務を負わないものとします。
+&lt;ol&gt;
+&lt;li&gt;利用登録の申請に際して虚偽の事項を届け出た場合&lt;/li&gt;
+&lt;li&gt;本規約に違反したことがある者からの申請である場合&lt;/li&gt;
+&lt;li&gt;その他，当方が利用登録を相当でないと判断した場合&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;利用登録完了後であっても，ユーザーが前項各号のいずれかに該当することが判明した場合，当方は事前の通知なく当該利用登録を取り消し，または削除することができるものとします。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;第3条ユーザーidおよびパスワードの管理&#34;&gt;第3条（ユーザーIDおよびパスワードの管理）&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;ユーザーは，自己の責任において，本サービスのユーザーIDおよびパスワードを適切に管理するものとします。&lt;/li&gt;
+&lt;li&gt;ユーザーは，いかなる場合にも，ユーザーIDおよびパスワードを第三者に譲渡または貸与し，もしくは第三者と共用することはできません。当方は，ユーザーIDとパスワードの組み合わせが登録情報と一致してログインされた場合には，そのユーザーIDを登録しているユーザー自身による利用とみなします。&lt;/li&gt;
+&lt;li&gt;ユーザーID及びパスワードが第三者によって使用されたことによって生じた損害は，当方に故意又は重大な過失がある場合を除き，当方は一切の責任を負わないものとします。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;第4条禁止事項&#34;&gt;第4条（禁止事項）&lt;/h2&gt;
+&lt;p&gt;ユーザーは，本サービスの利用にあたり，以下の行為をしてはなりません。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/KotoriBlog/blog/privacy_policy/</link>
+      <pubDate>Tue, 03 Aug 2021 14:17:18 +0000</pubDate>
+      <guid>http://localhost:1313/KotoriBlog/blog/privacy_policy/</guid>
+      <description>&lt;h3 id=&#34;ことり日誌のプライバシーポリシー&#34;&gt;『ことり日誌』のプライバシーポリシー&lt;/h3&gt;
+&lt;h4 id=&#34;1はじめに&#34;&gt;1.はじめに&lt;/h4&gt;
+&lt;p&gt;Kawaken555（以下「当方」）は、スマートフォン用アプリケーション、及び Web アプリケーション（以下「アプリ」）を開発・運用しています。本アプリのご使用によって、本規約に同意していただいたものとみなします。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

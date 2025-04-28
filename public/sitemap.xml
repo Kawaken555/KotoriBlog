@@ -1,0 +1,15 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/KotoriBlog/</loc><lastmod>2025-04-28T06:48:28&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/blog/service_term/</loc><lastmod>2025-04-28T06:48:28&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/categories/</loc><lastmod>2021-08-03T14:17:18&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/categories/document/</loc><lastmod>2021-08-03T14:17:18&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/blog/privacy_policy/</loc><lastmod>2021-08-03T14:17:18&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/tags/privacy-policy/</loc><lastmod>2021-08-03T14:17:18&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/tags/</loc><lastmod>2021-08-03T14:17:18&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/about/</loc><lastmod>2019-10-29T13:49:23&#43;06:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/blog/</loc><lastmod>2019-10-29T13:49:23&#43;06:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/contact/</loc><lastmod>2019-10-29T13:49:23&#43;06:00</lastmod></url><url>
+            <loc>http://localhost:1313/KotoriBlog/search/</loc><lastmod>2019-10-29T13:49:23&#43;06:00</lastmod></url></urlset>

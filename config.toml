@@ -1,0 +1,140 @@
+######################## default configuration ####################
+baseURL = "https://kawaken555.github.io/KotoriBlog/"
+languageCode = "ja-JP"
+title = "ことりBlog"
+theme = "PaperMod"
+summaryLength = "3"
+# paginate = 5 # PaperModではトップレベルに設定
+publishDir = "docs"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"] # PaperModのデフォルトに合わせて調整が必要かも
+
+############################## navigation ###############################
+[menu]
+  # main menu
+  [[menu.main]]
+    name = "About"
+    URL = "about"
+    weight = 1
+  [[menu.main]]
+    name = "Post"
+    URL = "blog" # PaperModでは /posts か /archives が一般的
+    weight = 2
+  # footer menu はPaperModでは通常不要
+
+#################### PaperMod Parameters ################################
+[params]
+  # profileMode を有効にするか
+  [params.profileMode]
+    enabled = false # true にするとホームがプロフィール表示になる
+
+  # defaultTheme = "auto" # or "light" or "dark"
+  # disableThemeToggle = false
+
+  # Assets settings
+  # assets:
+  #   favicon: "/favicon.ico"
+  #   favicon16x16: "/favicon-16x16.png"
+  #   favicon32x32: "/favicon-32x32.png"
+  #   apple_touch_icon: "/apple-touch-icon.png"
+  #   safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  # author = "Kawaken555" # PaperMod の profileMode や記事 front matter で設定
+  # description = "ことりBlog" # PaperMod の site description や記事 front matter で設定
+  # copyright = "© 2024 ことりBlog" # PaperMod では通常 [params.footer] で設定
+
+  # Google Analytics (gtag.js)
+  googleAnalytics = "Your ID" # G-XXXXXX または UA-XXXXXX-X 形式
+
+  # Show reading time on posts
+  ShowReadingTime = true
+
+  # Show share buttons on posts
+  ShowShareButtons = true
+
+  # Show post meta information (date, reading time, author)
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  # disableSpecial1stPost = false
+  # disableScrollToTop = false
+  # comments = false # Enable Disqus or other comment systems here
+  # hidemeta = false
+  # hideSummary = false
+  # showtoc = false
+  # tocopen = false
+
+  # [params.label]
+  #   text = "Home"
+  #   icon = "/apple-touch-icon.png"
+  #   iconHeight = 35
+
+  # プロフィールモード設定 (profileMode = true の場合)
+  # [params.profileMode]
+  #   enabled = true
+  #   title = "ことりBlog"
+  #   subtitle = "ぼく、ことり！"
+  #   imageUrl = "/images/profile.png" # static/images/profile.png
+  #   imageWidth = 120
+  #   imageHeight = 120
+  #   imageTitle = "My avatar"
+  #   buttons = [
+  #     { name = "Posts", url = "posts" },
+  #     { name = "Archives", url = "archives" }
+  #   ]
+
+  # ホーム情報モード設定 (profileMode = false の場合)
+  # [params.homeInfoParams]
+  #   Title = "Hi there 👋"
+  #   Content = "Welcome to my blog"
+
+  # ソーシャルアイコン設定
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/kotori_diary555"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Kawaken555"
+  # 他のアイコンは PaperMod のドキュメントを参照して追加できるのだ
+  # https://github.com/adityatelange/hugo-PaperMod/wiki/Features#social-icons
+
+  # [params.analytics]
+  #   google = { SiteVerificationTag = "XYZ..." }
+  #   bing = { SiteVerificationTag = "XYZ..." }
+  #   yandex = { SiteVerificationTag = "XYZ..." }
+
+  # [params.cover]
+  #   hidden = true # hide everywhere but not in structured data
+  #   hiddenInList = true # hide on list pages and home
+  #   hiddenInSingle = true # hide on single page
+
+  # [params.editPost]
+  #   URL = "https://github.com/<user>/<repo>/content"
+  #   Text = "Suggest Changes" # edit text
+  #   appendFilePath = true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  # [params.fuseOpts]
+  #   isCaseSensitive = false
+  #   shouldSort = true
+  #   location = 0
+  #   distance = 1000
+  #   threshold = 0.4
+  #   minMatchCharLength = 0
+  #   keys = ["title", "permalink", "summary", "content"]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses = true
+[markup]
+  [markup.highlight]
+    noClasses = false
+    # anchorLineNos = true
+    # codeFences = true
+    # guessSyntax = true
+    # lineNos = true
+    # style = "native" # or other Chroma style
