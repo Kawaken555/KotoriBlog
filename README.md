@@ -6,7 +6,7 @@ docker-compose build --no-cache
 docker-compose up -d
 ```
 ```
-docker exec -it hugo /bin/bash
+docker exec -it kotori_blog /bin/ash
 ```
 ###### ■ローカルサーバー起動 (-D はドラフトも表示するオプション)
 ```
