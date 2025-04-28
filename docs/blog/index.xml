@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>blog on ことりBlog</title>
-    <link>https://kawaken555.github.io/KotoriBlog/blog/</link>
+    <link>https://kawaken555.github.io/kotoriBlog/blog/</link>
     <description>Recent content in blog on ことりBlog</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>ja-JP</language>
     <lastBuildDate>Mon, 28 Apr 2025 06:48:28 +0000</lastBuildDate>
-    <atom:link href="https://kawaken555.github.io/KotoriBlog/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kawaken555.github.io/kotoriBlog/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>利用規約</title>
-      <link>https://kawaken555.github.io/KotoriBlog/blog/service_term/</link>
+      <link>https://kawaken555.github.io/kotoriBlog/blog/service_term/</link>
       <pubDate>Mon, 28 Apr 2025 06:48:28 +0000</pubDate>
-      <guid>https://kawaken555.github.io/KotoriBlog/blog/service_term/</guid>
+      <guid>https://kawaken555.github.io/kotoriBlog/blog/service_term/</guid>
       <description>&lt;h1 id=&#34;利用規約&#34;&gt;利用規約&lt;/h1&gt;
 &lt;p&gt;この利用規約（以下，「本規約」といいます。）は，Kawaken555（以下，「当方」といいます。）がこのウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。&lt;/p&gt;
 &lt;h2 id=&#34;第1条適用&#34;&gt;第1条（適用）&lt;/h2&gt;
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>https://kawaken555.github.io/KotoriBlog/blog/privacy_policy/</link>
+      <link>https://kawaken555.github.io/kotoriBlog/blog/privacy_policy/</link>
       <pubDate>Tue, 03 Aug 2021 14:17:18 +0000</pubDate>
-      <guid>https://kawaken555.github.io/KotoriBlog/blog/privacy_policy/</guid>
+      <guid>https://kawaken555.github.io/kotoriBlog/blog/privacy_policy/</guid>
       <description>&lt;h3 id=&#34;ことり日誌のプライバシーポリシー&#34;&gt;『ことり日誌』のプライバシーポリシー&lt;/h3&gt;
 &lt;h4 id=&#34;1はじめに&#34;&gt;1.はじめに&lt;/h4&gt;
 &lt;p&gt;Kawaken555（以下「当方」）は、スマートフォン用アプリケーション、及び Web アプリケーション（以下「アプリ」）を開発・運用しています。本アプリのご使用によって、本規約に同意していただいたものとみなします。&lt;/p&gt;</description>

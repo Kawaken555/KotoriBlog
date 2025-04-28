@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://kawaken555.github.io/KotoriBlog/"
+baseURL = "https://kawaken555.github.io/kotoriBlog/"
 languageCode = "ja-JP"
 title = "ことりBlog"
 theme = "PaperMod"
